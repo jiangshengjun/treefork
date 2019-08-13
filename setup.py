@@ -9,6 +9,6 @@ setup(
     author='James',
     author_email='jiang.shengjun@qianka.com',
     url='https://github.com/jiangshengjun/treefork',
-    license="",
-    packages=find_packages(exclude=('tests', 'docs'))
+    license="Apache",
+    packages=['treefork']
 )
